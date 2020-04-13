@@ -1,0 +1,28 @@
+{
+    "name": "@mintpond/hasher-phi2",
+    "version": "1.0.0",
+    "description": "phi2 algorithm hashing function for NodeJS.",
+    "author": "JCThePants",
+    "main": "index.js",
+    "dependencies": {
+        "bindings": "^1.3.0",
+        "nan": "^2.6.2"
+    },
+    "scripts": {
+        "test": "node test"
+    },
+    "homepage": "https://github.com/MintPond/hasher-phi2",
+    "bugs": {
+        "url": "https://github.com/MintPond/hasher-phi2/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MintPond/hasher-phi2.git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "engines": {
+        "node": ">=10.17.0"
+    }
+}
