@@ -4,7 +4,8 @@ hasher-phi2
 This is a Node module for simple hashing of the phi2 algorithm. 
 Native code is adapted from [LUX](https://github.com/Lux-core/lux).
 
-This module has been developed and tested on [Node v10.16.3](https://nodejs.org/) and [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
+This module has been developed and tested on [Node v10.16.3](https://nodejs.org/) and 
+[Ubuntu 16.04](http://releases.ubuntu.com/16.04/) for [Phi2 mining pools](https://mintpond.com) at [MintPond](https://mintpond.com).
 
 ## Install ##
 __Install as Dependency in NodeJS Project__
